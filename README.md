@@ -1,5 +1,7 @@
 # web-scraping-covid19
 
+## Internship task Day-1 (Newbieron Technologies)
+
 This project involves web scraping data related to the COVID-19 pandemic from three different websites: PRS India, Ministry of Health and Family Welfare (MOHFW), and COVID-19 India.
 
 The first website, PRS India (https://prsindia.org/), provides valuable information about the COVID-19 pandemic in India, including various statistics, reports, and updates. Through web scraping, we extract relevant data such as government responses, policies, and official documents to gain insights into the legislative and policy landscape surrounding the pandemic.
