@@ -1,6 +1,6 @@
 # web-scraping-covid19
 
-## Internship task -1  [Day-1 & Day-3] (Newbieron Technologies)
+## Internship task-1 (Newbieron Technologies)
 
 This project involves web scraping data related to the COVID-19 pandemic from three different websites: PRS India, Ministry of Health and Family Welfare (MOHFW), and COVID-19 India.
 
